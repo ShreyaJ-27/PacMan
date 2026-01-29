@@ -24,7 +24,7 @@
 
 </div>
 
-> The gameplay shown above is converted from **`PacMan.mp4`**, which is included in this repository and demonstrates real-time movement, rendering, and controls.
+
 
 
 ## 👾 About the Project:
