@@ -26,7 +26,6 @@
 
 
 
-
 ## 👾 About the Project:
 This is a **Pac-Man inspired desktop game** developed using **Java Swing**.  
 The project focuses on **core game development concepts** such as:
